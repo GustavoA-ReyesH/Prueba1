@@ -8,4 +8,8 @@ Otra modificación (sería la tercera)
 
 Otra modificación, pero esta vez desde GitHub
 
+Otra modificación, nuevamente desde GitHub. Es para usar pull (combina fetch y merge)
+
+
+
 This repository is built step by step in the tutorial.
