@@ -11,5 +11,7 @@ Otra modificación, pero esta vez desde GitHub
 Otra modificación, nuevamente desde GitHub. Es para usar pull (combina fetch y merge)
 
 
+Esta modificación es hecha en una rama local. Esa rama será subida el repo remoto.
+
 
 This repository is built step by step in the tutorial.
